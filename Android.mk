@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),akatsuki)
+ifeq ($(TARGET_DEVICE),akatsuki_dcm)
 
 endif
